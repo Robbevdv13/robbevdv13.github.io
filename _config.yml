@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a site to keep up with my latest developments.
 author: Me
 email: robbevdv@live.be
-avatar: assets/images/avatar.jpg
+avatar: assets/images/face.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl:  # the subpath of your site, e.g. /blog
@@ -49,7 +49,7 @@ facebook_url:
 googleplus_url:
 instagram_url:
 linkedin_url: https://www.linkedin.com/in/robbevdv/
-github_url:
+github_url: https://github.com/Robbevdv13
 stackoverflow_url:
 pinterest_url:
 slack_url:
